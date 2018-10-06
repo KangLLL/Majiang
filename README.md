@@ -1,0 +1,2 @@
+# Majiang
+Majiang game
